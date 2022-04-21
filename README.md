@@ -3,6 +3,7 @@ The Best FiveM Anticheat over the World!
 Made by UrbanBack Scripts Team
 
 🛡️ ・Website: https://verox-ac.net
+     Discord: https://discord.gg/zP3nXteqTu
 
 Features:
 
